@@ -8,8 +8,8 @@ let name = {
 name.printFullName();
 
 let name2 = {
-  firstName: "Sachin",
-  lastName: "Tendulkar",
+  firstName: "SSR",
+  lastName: "SA",
 };
 
 // Call() Method -> Function Borrowing
